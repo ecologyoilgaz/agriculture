@@ -1,2 +1,2 @@
-# agriculture
-agriculture
+# Agriculture
+Agriculture & Land Ecology Map — open database of global agricultural gaps: methane from livestock, N₂O from fertilizers, soil degradation, pesticide legacy, cotton and Aral Sea impact. Claimed vs actual verified via satellite data (TROPOMI, Sentinel-2, FAO). Digitized losses in USD, with concrete solutions and tokenized liquidity (RWA). Transparency over greenwashing. Contact: ecologyoilgaz@gmail.com
